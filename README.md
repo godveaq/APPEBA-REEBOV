@@ -13,13 +13,16 @@ The tool features a terminal-style interface with glitch-themed aesthetics and p
 <img width="321" height="33" alt="Opera Anlık görüntü_2025-12-29_190430_www google com" src="https://github.com/user-attachments/assets/63015086-bbb2-411e-9247-219e7397277e" />
 Double-click the file path and type cmd
 and in the tab that opens, type the following command
-   ```bash
-   python cuberv2.py
-   ```
+
+```bash
+python cuberv2.py
+```
+
 This new SQL injector will open Cuber version 2.0. If you want the Appebab version, use this command.
-   ```bash
-   python appebav1.py
-   ```
+
+```bash
+python appebav1.py
+```
 ## Features
 
 - **Multiple SQL Injection Testing Techniques**:
@@ -203,3 +206,4 @@ For educational purposes and questions about SQL injection concepts:
 
 
 **Remember: Ethical use only! Only test systems you own or have explicit permission to test.**
+
