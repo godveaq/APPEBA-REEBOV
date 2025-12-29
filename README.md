@@ -207,3 +207,5 @@ For educational purposes and questions about SQL injection concepts:
 
 **Remember: Ethical use only! Only test systems you own or have explicit permission to test.**
 
+<img width="1090" height="671" alt="sql py - sql map - Qoder 29 12 2025 18_58_51(1)(1)" src="https://github.com/user-attachments/assets/853c3f0a-2623-45a4-9430-eb4459f12855" />
+
